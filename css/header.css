@@ -1,0 +1,49 @@
+
+header{
+   
+    background: #fff;
+}
+header img{
+    width: 250px;
+}
+.hr{
+    margin: 0px;
+}
+.btn-group{
+    background-color: #fff;
+}
+#nav{
+    color: #fff;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+body{
+    margin: 0;
+    padding: 0;
+}
+.item_menu{
+    float: left;
+}
+.img_item{
+    width: 337px;
+}
+footer{
+    background: #ecebeb;
+    clear: left;
+    max-width: 100%;
+    height: 450px;
+
+}
+.img_footer{
+    width: 200px;
+    height: 53px;
+}
+.container{
+    max-width: 100%;
+}
+.icon_header{
+    float: right;
+    margin: 0;
+}
